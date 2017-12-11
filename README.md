@@ -1,4 +1,5 @@
-# ORIE-6741 Bayesia Machine Learning Project-- Predictive Model for Time-Series Data with Bayesian Non-parametrics
+# ORIE-6741 Bayesia Machine Learning Project
+# Predictive Model for Time-Series Data with Bayesian Non-parametrics
 Chawannut Prommin (cp626@cornell.edu), Serena Li (sl2327@cornell.edu), Yutao Han (yh675@cornell.edu)
 # Paper Structure
 ## Abstract
