@@ -32,3 +32,11 @@ dataset.
 * Evaluation of Model Accuracy
 ## Discussion
 ## References
+
+# Code Structure
+## Clustering
+It is the Matlab code for Clustering method
+## Online_Animation
+It is the Matlab code for online clustering animation
+## Online-KissGP
+It is the python code in Jupyter notebook utilize KISS-GP for fast inference 
